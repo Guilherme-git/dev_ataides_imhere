@@ -1,5 +1,5 @@
 ## Descrição
-Um app simples de Todoist, feito com [React Native](https://reactnative.dev/)
+Um app simples de Todoist, feito com [React Native/Expo](https://expo.dev/)
 
 ## Imagens do aplicativo
 <p align="center">
